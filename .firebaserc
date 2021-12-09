@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "tesla-clone-cb764",
+    "firebase use default": "tesla-clone-d5ee2",
+    "staging": "tesla-clone-d5ee2"
+  }
+}
