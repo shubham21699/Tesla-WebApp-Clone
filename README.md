@@ -20,7 +20,9 @@
 
 ### Mobile View:
 
+<p align="center">
 <img width="587" alt="Screenshot 2021-12-31 at 6 00 59 PM" src="https://user-images.githubusercontent.com/71596140/147823545-14f5416b-f007-4806-b704-291c757c3085.png">
 <br />
 <img width="585" alt="Screenshot 2021-12-31 at 6 01 23 PM" src="https://user-images.githubusercontent.com/71596140/147823564-c77dcd25-8899-482b-91ea-8dc5ae231187.png">
+</p>
 
