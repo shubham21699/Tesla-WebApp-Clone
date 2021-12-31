@@ -1,7 +1,7 @@
 ## WebApp Link: https://tesla-clone-d5ee2.web.app/
 
 ### TESLA WEBAPP CLONE | Frontend Landing Page
-#### Made With ReactJS
+### Made With ReactJS
 <br />
 <img width="1440" alt="Screenshot 2021-12-31 at 5 56 35 PM" src="https://user-images.githubusercontent.com/71596140/147823367-c68b68fb-4ef4-496f-ab12-54fbb050bb37.png">
 <br />
